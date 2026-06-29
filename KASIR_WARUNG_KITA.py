@@ -1,5 +1,5 @@
 # ======================================
-# APLIKASI KASIR WARUNG MADURA
+# APLIKASI KASIR WARUNG KITA
 # ======================================
 
 # Dictionary Data Produk
