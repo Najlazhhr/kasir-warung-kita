@@ -15,7 +15,9 @@ Tugas Akhir Algoritma Pemrograman yaitu Membuat Kasir Sederhana
 - Cetak struk
 - Cek stok
 - Riwayat transaksi
-
+- Input uang pelanggan
+- Kembalian
+  
   ## Struktur Data
 - Dictionary (data_produk)
 - List (riwayat_transaksi)
