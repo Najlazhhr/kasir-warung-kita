@@ -26,6 +26,6 @@ Tugas Akhir Algoritma Pemrograman yaitu Membuat Kasir Sederhana
 - Searching
 - Sorting
 
-## Open in Google Colab
+## LINK COLLAB KELOMPOK 2
 
 [![LINK COLLAB KELOMPOK 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Najlazhhr/kasir-warung-kita/blob/main/ProyekAkhir_Alprog_Kelompok2.ipynb)
