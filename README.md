@@ -28,4 +28,4 @@ Tugas Akhir Algoritma Pemrograman yaitu Membuat Kasir Sederhana
 
 ## LINK COLLAB KELOMPOK 2
 
-[![LINK COLLAB KELOMPOK 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Najlazhhr/kasir-warung-kita/blob/main/ProyekAkhir_Alprog_Kelompok2.ipynb)
+[![LINK COLLAB KELOMPOK 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Najlazhhr/kasir-warung-kita/blob/main/ProyekAkhir_Alprog_Kelompok2(1).ipynb)
